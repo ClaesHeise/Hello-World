@@ -3,4 +3,4 @@ First repository
 
 Hello Claes name my 
 
-I lika sweets. 
+I like sweets. 
